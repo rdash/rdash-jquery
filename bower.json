@@ -1,7 +1,7 @@
 {
-  "name": "Responsive-Dashboard",
-  "version": "0.0.1",
-  "homepage": "https://github.com/Ehesp/Responsive-Dashboard",
+  "name": "rdash-jquery",
+  "version": "0.0.2",
+  "homepage": "https://github.com/rdash/rdash-jquery",
   "authors": [
     "Elliot Hesp <elliot.hesp@gmail.com>",
     "Ricardo Pascua Jr <rdpascua@outlook.com>",
@@ -22,5 +22,9 @@
     "jquery.cookie": "~1.4.1",
     "bootstrap": "~3.2.0",
     "font-awesome": "~4.1.0"
-  }
+  },
+  "repository": {
+     "type": "git",
+     "url": "git://github.com/rdash/rdash-jquery.git"
+   }
 }
